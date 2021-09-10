@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Madi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Madi\\.nuget\\packages"
+    ]
+  }
+}
